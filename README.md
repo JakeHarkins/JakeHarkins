@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Jake Harkins, otherwise known as JonkDev online. I'm a current student at QUT, studying Games Design, majoring in Programming, and Science, majoring in Chemistry.
+
+You can see my projects and portfolio at:
+jakeharkins.github.io
+
+You can contact me on:
+Discord: @jakeharkins
+X (Twitter): @jonkdev
+Email: jakeharkins191@gmail.com
+
 <!--
 **JakeHarkins/JakeHarkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
