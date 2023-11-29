@@ -5,7 +5,7 @@ When I'm not studying, you'll find me working on personal projects, which are mo
 At the moment I'm working on a project "HexSurvival", a tile based game where you build a town using hexagonal tiles.<br>
 
 You can see my projects and portfolio at: <br>
-https://jakeharkins.github.io
+<a href="https://jakeharkins.github.io" target="_blank">jakeharkins.github.io</a>
 
 You can contact me on: <br>
 Discord: @jakeharkins <br>
