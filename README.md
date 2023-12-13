@@ -2,7 +2,7 @@
 
 I'm Jake Harkins, otherwise known as JonkDev online. I'm a current student at QUT, studying Games Design, majoring in Programming, and Science, majoring in Chemistry.
 When I'm not studying, you'll find me working on personal projects, which are mostly games, and sometimes software.<br>
-At the moment, I'm working an unnamed FPS project that takes inspiration from ROR2, Titanfall 2 and a variety of rogue-lite games.
+At the moment, I'm working an unnamed FPS project that takes inspiration from ROR2, Titanfall 2 and a variety of rogue-lite games. Currently I'm developing it locally, and it is not being updated to GitHub.
 
 You can see my projects and portfolio at: <br>
 <a href="https://jakeharkins.github.io" target="_blank">jakeharkins.github.io</a>
